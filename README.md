@@ -1,2 +1,2 @@
-# about
-this is where i will post my sources and some other shit
+# Info
+repository made for me to post, and to others to read
